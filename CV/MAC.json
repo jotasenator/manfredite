@@ -441,6 +441,30 @@
       ]
     },
     "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Cypress",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "Vue",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      ],
       "preferredRoles": [
         "Frontend Developer"
       ]
