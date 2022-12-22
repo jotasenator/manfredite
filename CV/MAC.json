@@ -231,6 +231,28 @@
     ]
   },
   "knowledge": {
+    "languages": [
+      {
+        "name": "English",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "French",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "German",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "Portuguese",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
     "hardSkills": [
       {
         "skill": {
