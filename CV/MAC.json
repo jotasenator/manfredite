@@ -230,6 +230,185 @@
       }
     ]
   },
+  "knowledge": {
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Enzyme",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sass",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vuex",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Cypress",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "CSS Certificate",
+        "startDate": "2021-09-01",
+        "institution": {
+          "name": "www.hackerrank.com",
+          "description": "",
+          "URL": "https://www.hackerrank.com/certificates/5506a41cb5f6"
+        },
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "React (Basic) Certificate",
+        "startDate": "2021-09-01",
+        "institution": {
+          "name": "www.hackerrank.com",
+          "description": "",
+          "URL": "https://www.hackerrank.com/certificates/95b89aeb267e"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Angular (Basic) Certificate",
+        "startDate": "2021-09-01",
+        "institution": {
+          "name": "www.hackerrank.com",
+          "description": "",
+          "URL": "https://www.hackerrank.com/certificates/7f04a37f07f8"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Angular2+",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Problem Solving (Basic) Certificate",
+        "startDate": "2020-10-01",
+        "institution": {
+          "name": "www.hackerrank.com",
+          "description": "",
+          "URL": "https://www.hackerrank.com/certificates/258ecf727ddf"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "JavaScript (Basic) Certificate",
+        "startDate": "2020-09-01",
+        "institution": {
+          "name": "www.hackerrank.com",
+          "description": "",
+          "URL": "https://www.hackerrank.com/certificates/7f2472e66d5c"
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Python (Basic) Certificate",
+        "startDate": "2020-09-01",
+        "institution": {
+          "name": "www.hackerrank.com",
+          "description": "",
+          "URL": "https://www.hackerrank.com/certificates/8e8cccc64bb4"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "EFSET English Certificate C1 Advanced",
+        "startDate": "2020-06-01",
+        "institution": {
+          "name": "www.efset.org",
+          "description": "",
+          "URL": "https://www.efset.org/cert/zAzPY1"
+        }
+      }
+    ]
+  },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
