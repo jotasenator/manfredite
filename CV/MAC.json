@@ -440,6 +440,11 @@
         }
       ]
     },
+    "preferences": {
+      "preferredRoles": [
+        "Frontend Developer"
+      ]
+    },
     "status": "searchingActively"
   }
 }
