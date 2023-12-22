@@ -1,22 +1,15 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
-    "language": "ES",
-    "MACVersion": "0.3"
+    "language": "EN",
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
       "name": "Maykel",
       "surnames": "Contreras Camacho",
       "title": "Desarrollador de front-end js",
-      "description": "TBD",
-      "avatar": {
-        "alt": "",
-        "link": ""
-      },
-      "location": {
-        "notes": "Autocompleted using Google Maps API"
-      }
+      "description": "TBD"
     },
     "relevantLinks": [
       {
@@ -94,23 +87,6 @@
       },
       {
         "organization": {
-          "name": "The Backyard Dev "
-        },
-        "roles": [
-          {
-            "name": "Front End Developer",
-            "startDate": "2020-09-01",
-            "finishDate": "2020-11-30",
-            "challenges": [
-              {
-                "description": "Working with React.js, StoryBook, Styled Components, and UT with Jest and Enzyme"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Estadio Capitán San Luis "
         },
         "roles": [
@@ -121,6 +97,23 @@
             "challenges": [
               {
                 "description": "Un colectivo de trabajo que nunca olvidaré"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "The Backyard Dev "
+        },
+        "roles": [
+          {
+            "name": "Front End Developer",
+            "startDate": "2020-09-01",
+            "finishDate": "2020-11-30",
+            "challenges": [
+              {
+                "description": "Working with React.js, StoryBook, Styled Components, and UT with Jest and Enzyme"
               }
             ]
           }
@@ -233,30 +226,59 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "DE",
+        "fullName": "Alemán",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "EN",
+        "fullName": "Inglés",
         "level": "Full professional proficiency"
       },
       {
-        "name": "French",
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "FR",
+        "fullName": "Francés",
         "level": "Professional working proficiency"
       },
       {
-        "name": "German",
+        "name": "PT",
+        "fullName": "Portugués",
         "level": "Limited working proficiency"
-      },
-      {
-        "name": "Portuguese",
-        "level": "Limited working proficiency"
-      },
-      {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "React",
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Cypress",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Enzyme",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
           "type": "technology"
         }
       },
@@ -274,19 +296,7 @@
       },
       {
         "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Enzyme",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Sass",
+          "name": "React",
           "type": "technology"
         }
       },
@@ -298,7 +308,7 @@
       },
       {
         "skill": {
-          "name": "Angular2+",
+          "name": "Sass",
           "type": "technology"
         }
       },
@@ -310,19 +320,7 @@
       },
       {
         "skill": {
-          "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Vuex",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Cypress",
           "type": "technology"
         }
       }
@@ -331,39 +329,10 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "CSS Certificate",
-        "startDate": "2021-09-01",
-        "institution": {
-          "name": "www.hackerrank.com",
-          "description": "",
-          "URL": "https://www.hackerrank.com/certificates/5506a41cb5f6"
-        },
-        "linkedCompetences": [
-          {
-            "name": "CSS",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "React (Basic) Certificate",
-        "startDate": "2021-09-01",
-        "institution": {
-          "name": "www.hackerrank.com",
-          "description": "",
-          "URL": "https://www.hackerrank.com/certificates/95b89aeb267e"
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
         "name": "Angular (Basic) Certificate",
         "startDate": "2021-09-01",
         "institution": {
           "name": "www.hackerrank.com",
-          "description": "",
           "URL": "https://www.hackerrank.com/certificates/7f04a37f07f8"
         },
         "linkedCompetences": [
@@ -376,12 +345,27 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "Problem Solving (Basic) Certificate",
-        "startDate": "2020-10-01",
+        "name": "CSS Certificate",
+        "startDate": "2021-09-01",
         "institution": {
           "name": "www.hackerrank.com",
-          "description": "",
-          "URL": "https://www.hackerrank.com/certificates/258ecf727ddf"
+          "URL": "https://www.hackerrank.com/certificates/5506a41cb5f6"
+        },
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "EFSET English Certificate C1 Advanced",
+        "startDate": "2020-06-01",
+        "institution": {
+          "name": "www.efset.org",
+          "URL": "https://www.efset.org/cert/zAzPY1"
         }
       },
       {
@@ -391,7 +375,6 @@
         "startDate": "2020-09-01",
         "institution": {
           "name": "www.hackerrank.com",
-          "description": "",
           "URL": "https://www.hackerrank.com/certificates/7f2472e66d5c"
         },
         "linkedCompetences": [
@@ -404,11 +387,20 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Problem Solving (Basic) Certificate",
+        "startDate": "2020-10-01",
+        "institution": {
+          "name": "www.hackerrank.com",
+          "URL": "https://www.hackerrank.com/certificates/258ecf727ddf"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Python (Basic) Certificate",
         "startDate": "2020-09-01",
         "institution": {
           "name": "www.hackerrank.com",
-          "description": "",
           "URL": "https://www.hackerrank.com/certificates/8e8cccc64bb4"
         },
         "linkedCompetences": [
@@ -421,12 +413,31 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "EFSET English Certificate C1 Advanced",
-        "startDate": "2020-06-01",
+        "name": "React (Basic) Certificate",
+        "startDate": "2021-09-01",
         "institution": {
-          "name": "www.efset.org",
-          "description": "",
-          "URL": "https://www.efset.org/cert/zAzPY1"
+          "name": "www.hackerrank.com",
+          "URL": "https://www.hackerrank.com/certificates/95b89aeb267e"
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Analytical thinking",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Proactivity",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Team player",
+          "type": "practice"
         }
       }
     ]
@@ -435,8 +446,17 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/maykel-contreras-camacho-7a1545110/"
+          "URL": "https://www.linkedin.com/in/maykel-contreras-camacho-7a1545110/",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "jotasenator@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "58532354",
+          "countryCode": "+53"
         }
       ]
     },
@@ -470,5 +490,8 @@
       ]
     },
     "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "I would like a job in which I can became a better version of myself, being in touch with awsome code, and learning from many cultures and guru people"
   }
 }
