@@ -492,6 +492,28 @@
     "status": "searchingActively"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Cypress",
+        "type": "technology"
+      },
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "Python",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "Redux",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "I would like a job in which I can became a better version of myself, being in touch with awsome code, and learning from many cultures and guru people"
   }
 }
