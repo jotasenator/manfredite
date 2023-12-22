@@ -8,218 +8,19 @@
     "profile": {
       "name": "Maykel",
       "surnames": "Contreras Camacho",
-      "title": "Desarrollador de front-end js",
-      "description": "TBD"
+      "title": "frontend developer",
+      "description": "TBD",
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJwVPhxKtlJA0RvBSxQFbZSKY)",
+        "country": "Portugal",
+        "region": "Distrito de Oporto",
+        "municipality": "Oporto"
+      }
     },
     "relevantLinks": [
       {
         "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/maykel-contreras-camacho-7a1545110/"
-      }
-    ]
-  },
-  "experience": {
-    "jobs": [
-      {
-        "organization": {
-          "name": "Jan 2018 - Aug 2020 "
-        },
-        "roles": [
-          {
-            "name": "Especialista A. FrontEnd React.js Developer",
-            "startDate": "2022-12-22",
-            "challenges": [
-              {
-                "description": "Especialista A. FrontEnd React.js Developer"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Sep 2016 - Jan 2018 "
-        },
-        "roles": [
-          {
-            "name": "Especialista B. FrontEnd React.js Developer",
-            "startDate": "2022-12-22",
-            "challenges": [
-              {
-                "description": "Especialista B. FrontEnd React.js Developer"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Kimia "
-        },
-        "roles": [
-          {
-            "name": "Desarrollador de front-end",
-            "startDate": "2022-04-01",
-            "challenges": [
-              {
-                "description": "TBD"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Fivana "
-        },
-        "roles": [
-          {
-            "name": "Desarrollador de front-end",
-            "startDate": "2021-09-01",
-            "finishDate": "2022-03-31",
-            "challenges": [
-              {
-                "description": "Pero que manera de aprender!...que gran colectivo!...sin duda un antes y un después en todos los aspectos soñados de la vida profesional...what a ride!"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Estadio Capitán San Luis "
-        },
-        "roles": [
-          {
-            "name": "Especialista informático",
-            "startDate": "2020-09-01",
-            "finishDate": "2021-09-30",
-            "challenges": [
-              {
-                "description": "Un colectivo de trabajo que nunca olvidaré"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "The Backyard Dev "
-        },
-        "roles": [
-          {
-            "name": "Front End Developer",
-            "startDate": "2020-09-01",
-            "finishDate": "2020-11-30",
-            "challenges": [
-              {
-                "description": "Working with React.js, StoryBook, Styled Components, and UT with Jest and Enzyme"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "JavaScript Developer Reactjs Nextjs Vuejs Python "
-        },
-        "roles": [
-          {
-            "name": "Autónomo",
-            "startDate": "2019-10-01",
-            "finishDate": "2021-10-31",
-            "challenges": [
-              {
-                "description": "jquery challenge"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "4 yrs"
-        },
-        "roles": [
-          {
-            "name": "ENPA Empresa de Proyectos e Ingeniería del MINAG",
-            "startDate": "2018-01-01",
-            "finishDate": "2020-08-31",
-            "challenges": [
-              {
-                "description": "Especialista A. FrontEnd React.js Developer"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Almacenes Universales SA"
-        },
-        "roles": [
-          {
-            "name": "Especialista C en Gestión Comercial",
-            "startDate": "2015-09-01",
-            "finishDate": "2016-09-30",
-            "challenges": [
-              {
-                "description": "Supervisar las operaciones de carga y descarga de los vehiculos con los clientes. Llevar la documentación correspondiente. Elaborar informes. Procesar información. Recargar tarjetas de combustibles. Análisis de trayectoria por los dispositivos GPS, etc"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "ENPA Empresa de Proyectos e Ingeniería del MINAG"
-        },
-        "roles": [
-          {
-            "name": "Especialista C de Proyectos e Ingeniería",
-            "startDate": "2013-09-01",
-            "finishDate": "2015-09-30",
-            "challenges": [
-              {
-                "description": "Levantamientos topográficos- Elaboración de los planos. Elaboración de expedientes con los correspondientes elementos de un Sistema Integrado de Gestión"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Dirección Municipal de Planificación física"
-        },
-        "roles": [
-          {
-            "name": "Especialista C. Frontend Developer",
-            "startDate": "2012-01-01",
-            "finishDate": "2013-08-31",
-            "challenges": [
-              {
-                "description": "Procesar la información con los Sistemas de Información Geográficas y crear base de datos para que sirvieran para la toma de decisiones"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Dirección Provincial de Planificación Física"
-        },
-        "roles": [
-          {
-            "name": "Especialista C de Ordenamiento Territorial",
-            "startDate": "2008-09-01",
-            "finishDate": "2011-09-30",
-            "challenges": [
-              {
-                "description": "Trabajar con Sistemas de Información Geográficas para la mapificación y confección de bases de datos de diferentes áreas de estudio"
-              }
-            ]
-          }
-        ]
+        "URL": "https://linkedin.com/in/maykel-contreras-camacho-7a1545110"
       }
     ]
   },
@@ -420,33 +221,13 @@
           "URL": "https://www.hackerrank.com/certificates/95b89aeb267e"
         }
       }
-    ],
-    "softSkills": [
-      {
-        "skill": {
-          "name": "Analytical thinking",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Proactivity",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Team player",
-          "type": "practice"
-        }
-      }
     ]
   },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
         {
-          "URL": "https://www.linkedin.com/in/maykel-contreras-camacho-7a1545110/",
+          "URL": "https://linkedin.com/in/maykel-contreras-camacho-7a1545110",
           "type": "linkedin"
         }
       ],
