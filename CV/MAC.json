@@ -34,17 +34,27 @@
       {
         "name": "EN",
         "fullName": "Inglés",
-        "level": "Full professional proficiency"
+        "level": "Limited working proficiency"
       },
       {
         "name": "ES",
         "fullName": "Español",
-        "level": "Native or bilingual proficiency"
+        "level": "Limited working proficiency"
       },
       {
         "name": "FR",
         "fullName": "Francés",
         "level": "Professional working proficiency"
+      },
+      {
+        "name": "IT",
+        "fullName": "Italiano",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "JP",
+        "fullName": "Japonés",
+        "level": "Limited working proficiency"
       },
       {
         "name": "PT",
@@ -233,12 +243,6 @@
       ],
       "contactMails": [
         "jotasenator@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "58532354",
-          "countryCode": "+53"
-        }
       ]
     },
     "preferences": {
